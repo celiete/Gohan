@@ -1,11 +1,7 @@
 # Gohan
-Gohan
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-go.svg)](https://forthebadge.com)
+Go base handler for web
 
 ![gohan_gif](https://66.media.tumblr.com/4bed339a0922de29b91a293b26f68799/tumblr_inline_oh031hmZK51tz6xfo_500.gif)
-
-[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
 
 ---
 
@@ -36,8 +32,8 @@ $ bower install
 
 | <a href="https://github.com/chensienyong" target="_blank">**Chensienyong**</a> |
 | :---: |
-| [![Chensienyong](https://avatars1.githubusercontent.com/u/7655397?v=3&s=200)] |
-| <a href="https://github.com/chensienyong" target="_blank">`github.com/chensienyong`</a> |
+| [![Chensienyong](https://avatars1.githubusercontent.com/u/7655397?v=3&s=200)](https://github.com/chensienyong) |
+| <a href="https://github.com/chensienyong" target="_blank">`Jete`</a> |
 
 ---
 
@@ -53,4 +49,3 @@ $ bower install
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
