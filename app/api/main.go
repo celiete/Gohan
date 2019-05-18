@@ -4,15 +4,15 @@ import (
 	"log"
 	"net/http"
 	"os"
-	"strconv"
-	"time"
 
 	"github.com/celiete/gohan"
 	"github.com/celiete/gohan/handler"
 	"github.com/julienschmidt/httprouter"
+	"github.com/Chensienyong/godotenv"
 )
 
 func main() {
+	godotenv.Load()
 	gohan := gohan.NewGohan()
 	handler := handler.NewHandler(gohan)
 

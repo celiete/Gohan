@@ -1,3 +1,5 @@
+github.com/Chensienyong/godotenv v1.3.0 h1:/GcU/7gzajVCimSRGeHU2eUiIWQLXt1gwpz3CGFMiFY=
+github.com/Chensienyong/godotenv v1.3.0/go.mod h1:hC5DAuyKX2jbXFHslna30DdmuspAr4qqLrcKcAAeAdo=
 github.com/celiete/gohan v0.0.0-20190518123252-14ed5481cf31 h1:dxaSpVh1KUXXjtTSy/0A6zjqtUs2i6tW8te5u1UVEto=
 github.com/julienschmidt/httprouter v1.2.0 h1:TDTW5Yz1mjftljbcKqRcrYhd4XeOoI98t+9HbQbYf7g=
 github.com/julienschmidt/httprouter v1.2.0/go.mod h1:SYymIcj16QtmaHHD7aYtjjsJG7VTCxuUUipMqKk8s4w=
