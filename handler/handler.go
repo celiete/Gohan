@@ -30,3 +30,9 @@ func (h *Handler) Healthz(w http.ResponseWriter, r *http.Request, params httprou
 	w.Header().Set("Content-Type", "application/json")
 	fmt.Fprintln(w, "ok")
 }
+
+// Home is used to control the flow of GET / endpoint
+func (h *Handler) Home(w http.ResponseWriter, r *http.Request, params httprouter.Params) {
+	w.Header().Set("Content-Type", "application/json")
+	fmt.Fprintln(w, "ok")
+}

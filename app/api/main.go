@@ -5,10 +5,10 @@ import (
 	"net/http"
 	"os"
 
+	"github.com/Chensienyong/godotenv"
 	"github.com/celiete/gohan"
 	"github.com/celiete/gohan/handler"
 	"github.com/julienschmidt/httprouter"
-	"github.com/Chensienyong/godotenv"
 )
 
 func main() {
@@ -20,6 +20,7 @@ func main() {
 
 	router.GET("/healthz", handler.Healthz)
 
+	router.GET("/", handler.Home)
 	// Start server
 	log.Println("Listening at port", os.Getenv("API_PORT"))
 	log.Fatal(http.ListenAndServe(":"+os.Getenv("API_PORT"), router))
